@@ -41,6 +41,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>anix_integration</finalName>
 	</build>
 
 </project>
